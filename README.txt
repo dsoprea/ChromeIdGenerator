@@ -49,7 +49,7 @@ Extension ID: chklaanhfefbnpoihckbnefhakgolnmc
 Notes
 =====
 
-Please see SO article for additional details:
+An SO article has additional details:
 
     http://stackoverflow.com/questions/16993486/how-to-programmatically-calculate-chrome-extension-id
 
